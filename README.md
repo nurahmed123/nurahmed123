@@ -82,4 +82,4 @@
 <a href="#">
     <img src="https://komarev.com/ghpvc/?username=06nurahmed">
 </a>
-<a href="https://github.com/06nurahmed?tab=followers"><img src="https://img.shields.io/github/followers/06nurahmed?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/nurahmed123?tab=followers"><img src="https://img.shields.io/github/followers/06nurahmed?label=Followers&style=social" alt="GitHub Badge"></a>
