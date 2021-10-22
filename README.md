@@ -78,7 +78,7 @@
 </p>
 
 ## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+<a href="#">
     <img src="https://komarev.com/ghpvc/?username=nurahmed123">
 </a>
 <a href="https://github.com/nurahmed123?tab=followers"><img src="https://img.shields.io/github/followers/nurahmed123?label=Followers&style=social" alt="GitHub Badge"></a>
