@@ -2,6 +2,7 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Nur Ahmed</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from Bangladesh.</h3>
+<img width="265" style="border-radius:2rem" align="right" src="https://www.aalpha.net/wp-content/uploads/2021/02/python-for-web-development.gif"/>
 
 
 ## 🙋‍♂️ About Me
@@ -17,7 +18,7 @@
 - 📫 How to reach me **06nurahmed@gmail.com**
 
 - ⚡ Fun fact **I play games and go to the GYM very often.**
-<img align="right" src="https://www.aalpha.net/wp-content/uploads/2021/02/python-for-web-development.gif"/>
+
 
 ## 🚀 Languages and Tools:
 
@@ -45,7 +46,7 @@
 
 <br/>
 
-<p align="center">
+<p align="left">
     <a href="https://github.com/nurahmed123/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Nur Ahmed's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=nurahmed123&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
@@ -54,7 +55,8 @@
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/nurahmed123/github-readme-stats"><img alt="Nur Ahmed's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nurahmed123&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <p align="right"><a href="https://github.com/nurahmed123/github-readme-stats"><img alt="Nur Ahmed's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nurahmed123&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a></p>
+    <br/>
   <a href="https://github.com/nurahmed123/github-readme-stats"><img alt="Nur Ahmed's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurahmed123&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
