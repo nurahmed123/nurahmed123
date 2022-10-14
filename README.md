@@ -71,6 +71,7 @@
 <p align="left">
 
 <a href = "https://twitter.com/06nurahmed"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<img src="https://img.icons8.com/fluent/48/000000/twitter.png](https://www.aalpha.net/wp-content/uploads/2021/02/python-for-web-development.gif"/>
 <a href = "https://www.instagram.com/06nurahmed/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://www.youtube.com/channel/UC2TmzHkWeKpEXnYxRAHdjIQ"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 <a href = "https://www.facebook.com/EEE-project-solution-lab-107106394047092/"><img src="https://img.icons8.com/fluency/48/000000/facebook-new.png"/></a>
