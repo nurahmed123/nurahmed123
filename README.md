@@ -43,8 +43,6 @@
     <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
 </p>
 
-<img align="right" src="https://www.aalpha.net/wp-content/uploads/2021/02/python-for-web-development.gif"/>
-
 <br/>
 
 <p align="center">
