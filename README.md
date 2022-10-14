@@ -17,6 +17,7 @@
 - 📫 How to reach me **06nurahmed@gmail.com**
 
 - ⚡ Fun fact **I play games and go to the GYM very often.**
+<img align="right" src="https://www.aalpha.net/wp-content/uploads/2021/02/python-for-web-development.gif"/>
 
 ## 🚀 Languages and Tools:
 
