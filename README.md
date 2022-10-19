@@ -18,6 +18,7 @@
 - 📫 How to reach me **06nurahmed@gmail.com**
 
 - ⚡ Fun fact **I play games and go to the GYM very often.**
+- [![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=13b31bac6789&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
 
 
 ## 🚀 Languages and Tools:
