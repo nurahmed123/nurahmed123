@@ -15,7 +15,7 @@
 
 <!-- - 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)** -->
 
-- 📫 How to reach me **06nurahmed@gmail.com** | <a href="tel: +8801575056952">+880 1575056952</a>
+- 📫 How to reach me **06nurahmed@gmail.com** | <+880 1575056952>
 
 - ⚡ Fun fact **I play games and go to the GYM very often.**
 
