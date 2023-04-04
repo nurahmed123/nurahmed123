@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **06nurahmed@gmail.com** | [+880 1575056952](tel:+8801575056952)
 
-- ⚡ Fun fact **I play games and go to the GYM very often.**
+- ⚡ Fun fact *I like to participate in different kinds of olympiad and go to the GYM very often.**
 
 
 
