@@ -11,7 +11,7 @@
 
 
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 👯 I’m working on **MachineLearning**
 
 <!-- - 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)** -->
 
