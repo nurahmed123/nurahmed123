@@ -74,9 +74,14 @@
 </span>
 
   
-  <span align="right" style="margin-right:10rem">
-      ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nurahmed123&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-  <span/>
+ <span align="left">
+    <a href="https://github.com/nurahmed123/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Nur Ahmed's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=nurahmed123&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</span>
+
+  
+  <span align="right" style="margin-right:10rem"><a href="https://github.com/nurahmed123/github-readme-stats"><img alt="Nur Ahmed's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurahmed123&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a><span/>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
