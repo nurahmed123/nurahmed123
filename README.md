@@ -58,13 +58,22 @@
 
 <br/>
 
+
+
+## 📊 My Github Stats
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nurahmed123&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nurahmed123&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nurahmed123&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nurahmed123&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nurahmed123&theme=2077&utcOffset=8)
+
+
 <p align="left">
     <a href="https://github.com/nurahmed123/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Nur Ahmed's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=nurahmed123&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
-
-## 📊 My Github Stats
 
   <br/>
     <p align="left"><a href="https://github.com/nurahmed123/github-readme-stats"><img alt="Nur Ahmed's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nurahmed123&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a></p>
