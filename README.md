@@ -92,12 +92,15 @@
 
 ## Connect with me:
 <p align="left">
-
+    
+<a href="https://linkedin.com/in/06nurahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="06nurahmed" height="30" width="40" /></a>
 <a href = "https://twitter.com/06nurahmed"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <img src="https://img.icons8.com/fluent/48/000000/twitter.png](https://www.aalpha.net/wp-content/uploads/2021/02/python-for-web-development.gif"/>
 <a href = "https://www.instagram.com/06nurahmed/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://www.youtube.com/channel/UC2TmzHkWeKpEXnYxRAHdjIQ"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
-<a href = "https://www.facebook.com/EEE-project-solution-lab-107106394047092/"><img src="https://img.icons8.com/fluency/48/000000/facebook-new.png"/></a>
+<a href = "https://www.facebook.com/06nurahmed"><img src="https://img.icons8.com/fluency/48/000000/facebook-new.png"/></a>
+<a href="https://codepen.io/06nurahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="06nurahmed" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/06noorahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="06noorahmed" height="30" width="40" /></a>
 
 </p>
 
