@@ -68,11 +68,6 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nurahmed123&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nurahmed123&theme=2077&utcOffset=8)
 
-
-<span align="left">
-    ![](https://github-readme-streak-stats.herokuapp.com/?user=nurahmed123&theme=midnight-purple&hide_border=false)
-</span>
-
   
  <span align="left">
     <a href="https://github.com/nurahmed123/github-readme-streak-stats">
