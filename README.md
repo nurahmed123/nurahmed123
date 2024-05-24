@@ -110,8 +110,7 @@
 </a>
 <a href="https://github.com/nurahmed123?tab=followers"><img src="https://img.shields.io/github/followers/nurahmed123?label=Followers&style=social" alt="GitHub Badge"></a>
 
-  ## 💰 You can help me by Donating
-  [
-  ![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)
-  ![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)
+## 💰 You can help me by Donating
+![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)
+![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)
   
