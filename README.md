@@ -113,5 +113,5 @@
 ## 💰 You can help me by Donating
 <a href="https://www.buymeacoffee.com/06nurahmed">![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)</a>
 <a href="https://ko-fi.com/06nurahmed">![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)</a>
-<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#51b5b5', 'I2I6YHNBH');kofiwidget2.draw();</script> 
+
   
